@@ -1,0 +1,6 @@
+namespace ConsoleBasedInventoryManagementSystem
+{
+    class Inventory
+    {
+    }
+}
